@@ -19,7 +19,7 @@
 
 ### Contactos a
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=4FC3F7)](https://github.com/Zarck-OuO)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=4FC3F7)](https://github.com/Jose-Cordova)
 [![Instagram](https://img.shields.io/badge/Instagram-1F2937?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://instagram.com/moiseszrk)
 [![Facebook](https://img.shields.io/badge/Facebook-1E3A8A?style=for-the-badge&logo=facebook&logoColor=93C5FD)](https://www.facebook.com/moiseszrk)
 [![Discord](https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=818CF8)](https://discord.com/users/zarck2998)
