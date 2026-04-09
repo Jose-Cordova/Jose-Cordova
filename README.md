@@ -2,7 +2,7 @@
 
 <h1> Hi ~_~, soy Zarck!! </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=4FC3F7&center=true&vCenter=true&width=440&lines=Busco+goticas;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=4FC3F7&center=true&vCenter=true&width=440&lines=Dev_Jose;" />
 
 ---
 
