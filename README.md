@@ -1,3 +1,11 @@
+<div align="center">
+
+<h1> Hi ~_~, soy Zarck!! </h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=4FC3F7&center=true&vCenter=true&width=440&lines=Busco+goticas;" />
+
+---
+
 ### 😊 Sobre mí
 
 🤷‍♂️ desarrollador en proceso  
@@ -19,7 +27,7 @@
 
 ### Contactos a
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=4FC3F7)](https://github.com/Jose-Cordova)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=4FC3F7)](https://github.com/Zarck-OuO)
 [![Instagram](https://img.shields.io/badge/Instagram-1F2937?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://instagram.com/moiseszrk)
 [![Facebook](https://img.shields.io/badge/Facebook-1E3A8A?style=for-the-badge&logo=facebook&logoColor=93C5FD)](https://www.facebook.com/moiseszrk)
 [![Discord](https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=818CF8)](https://discord.com/users/zarck2998)
@@ -30,6 +38,6 @@
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80px">
 
-^_^ made with my code 💻 °⋆.ೃ࿔
+*^_^ made with my code 💻 °⋆.ೃ࿔*
 
 </div>
