@@ -52,8 +52,8 @@ ubicacion:   El Salvador 🌎
 | 🚀 Proyecto | 📄 Descripción | 🔗 Link |
 |:-----------:|:--------------:|:-------:|
 | **ReadBooks** | Backend de app de lectura 📚 | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/ReadBooks) |
-| **ReadBooks_frontend** | Frontend de app de lectura ⚡ | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/__ReadBooks_frontend) |
-| **Karolina-Collection** | Colección web 🌸 | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=bf00ff)](https://github.com/Jose-Cordova/Karolina-Collection) |
+| **ReadBooks_frontend** | Frontend de app de lectura ⚡ | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/ReadBooks_frontend) |
+| **Karolina-Collection** | POS de una tienda de ropa 🌸 | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=bf00ff)](https://github.com/Jose-Cordova/Karolina-Collection) |
 
 </div>
 
