@@ -63,9 +63,9 @@ ubicacion:   El Salvador 🌎
 
 ### ◈ STATS ◈
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Cordova&show_icons=true&theme=radical&border_color=00f5ff&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&bg_color=0f0c29)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Cordova&show_icons=true&theme=radical&border_color=00f5ff&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&bg_color=0f0c29&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Cordova&layout=compact&theme=radical&border_color=bf00ff&title_color=bf00ff&text_color=ffffff&bg_color=0f0c29)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Cordova&layout=compact&theme=radical&border_color=bf00ff&title_color=bf00ff&text_color=ffffff&bg_color=0f0c29&cache_seconds=1800)
 
 </div>
 
