@@ -81,6 +81,5 @@ ubicacion:   El Salvador 🌎
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 <div align="center">
-  
-*^_^ made with my code 💻 °⋆.ೃ࿔\**
+  executing dreams.exe... ██████████ 100% complete 🚀
 </div>
