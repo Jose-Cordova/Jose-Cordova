@@ -95,7 +95,5 @@ ubicacion:   El Salvador 🌎
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 <div align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80px">
-
 *^_^ made with my code 💻 °⋆.ೃ࿔\**
 </div>
