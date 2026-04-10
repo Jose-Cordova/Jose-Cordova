@@ -82,5 +82,4 @@ ubicacion:   El Salvador 🌎
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=%3E+executing+dreams.exe...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+complete+%F0%9F%9A%80" />
-  executing dreams.exe... ██████████ 100% complete 🚀
 </div>
