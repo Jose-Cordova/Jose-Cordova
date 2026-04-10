@@ -65,21 +65,7 @@ ubicacion:   El Salvador 🌎
 
 ![Jose's GitHub stats](https://streak-stats.demolab.com?user=Jose-Cordova&theme=radical&border=00f5ff&background=0f0c29&stroke=bf00ff&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Cordova&layout=compact&theme=radical&border_color=bf00ff&title_color=bf00ff&text_color=ffffff&bg_color=0f0c29&cache_seconds=1800)
-
 </div>
-
----
-
-<div align="center">
-
-### ◈ SNAKE DE CONTRIBUCIONES ◈
-
-![snake gif](https://github.com/Jose-Cordova/Jose-Cordova/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
