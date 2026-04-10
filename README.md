@@ -73,7 +73,7 @@ ubicacion:   El Salvador 🌎
 
 [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova)
 [![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=bf00ff)](https://instagram.com/jose_santos_cordova_19)
-[![Discord](https://img.shields.io/badge/Discord-0f0c29?style=for-the-badge&logo=discord&logoColor=bf00ff)](https://discord.com/users/zarck2998)
+[![Discord](https://img.shields.io/badge/Discord-0f0c29?style=for-the-badge&logo=discord&logoColor=bf00ff)](https://discord.com/users/scorpions7518)
 
 </div>
 
