@@ -51,8 +51,8 @@ ubicacion:   El Salvador 🌎
 
 | 🚀 Proyecto | 📄 Descripción | 🔗 Link |
 |:-----------:|:--------------:|:-------:|
-| **\_\_ReadBooks** | Backend de app de lectura 📚 | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/__ReadBooks) |
-| **\_\_ReadBooks_frontend** | Frontend de app de lectura ⚡ | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/__ReadBooks_frontend) |
+| **ReadBooks** | Backend de app de lectura 📚 | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/__ReadBooks) |
+| **ReadBooks_frontend** | Frontend de app de lectura ⚡ | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/__ReadBooks_frontend) |
 | **Karolina-Collection** | Colección web 🌸 | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=bf00ff)](https://github.com/Jose-Cordova/Karolina-Collection) |
 
 </div>
@@ -63,7 +63,7 @@ ubicacion:   El Salvador 🌎
 
 ### ◈ STATS ◈
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Cordova&show_icons=true&theme=radical&border_color=00f5ff&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&bg_color=0f0c29&cache_seconds=1800)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose_Cordova&show_icons=true&theme=radical&border_color=00f5ff&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&bg_color=0f0c29&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Cordova&layout=compact&theme=radical&border_color=bf00ff&title_color=bf00ff&text_color=ffffff&bg_color=0f0c29&cache_seconds=1800)
 
