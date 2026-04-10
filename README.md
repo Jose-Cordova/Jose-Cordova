@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jose_Cordova&fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Dev+in+progress+%7C+Web+App+Lover&descAlignY=58&descSize=18&descColor=bf00ff)
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi+%7E_%7E%2C+soy+Jose!!;Full+Stack+Dev+in+progress...;Laravel+%7C+Vue.js+%7C+PHP;cat+lover+forever+%F0%9F%90%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi+%7E_%7E%2C+soy+Jose!!;Full+Stack+Dev+in+progress...;Laravel+%7C+Vue.js+%7C+PHP" alt="Typing SVG" />
 
 </div>
 
