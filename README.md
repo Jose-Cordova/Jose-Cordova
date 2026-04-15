@@ -44,59 +44,64 @@ ubicacion:   El Salvador 🌎
 
 ### ◈ PROYECTOS DESTACADOS ◈
 
-<table>
+</div>
+
+<div align="left">
+
+<table width="100%">
+
 <tr>
-
-<td align="center" width="33%">
-
-![ReadBooks](https://img.shields.io/badge/📚_ReadBooks-Backend-0f0c29?style=for-the-badge&labelColor=0f0c29&color=00f5ff)
-
-**API REST para una app de lectura**
-
-Gestión de libros, usuarios y progreso de lectura
-
-![Laravel](https://img.shields.io/badge/-Laravel-0f0c29?style=flat-square&logo=laravel&logoColor=ff4d6d)
-![PHP](https://img.shields.io/badge/-PHP-0f0c29?style=flat-square&logo=php&logoColor=bf00ff)
-![MySQL](https://img.shields.io/badge/-MySQL-0f0c29?style=flat-square&logo=mysql&logoColor=00f5ff)
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Repo→-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/ReadBooks)
-
+<td width="52" align="center"><b><font color="#00f5ff" size="6">01</font></b></td>
+<td width="1" bgcolor="#302b63"> </td>
+<td><b>ReadBooks — Backend</b><br/><sub>API REST para gestión de libros, usuarios y progreso de lectura</sub></td>
+<td align="right">
+  <img src="https://img.shields.io/badge/Laravel-0f0c29?style=flat-square&logo=laravel&logoColor=ff4d6d"/>
+  <img src="https://img.shields.io/badge/PHP-0f0c29?style=flat-square&logo=php&logoColor=bf00ff"/>
+  <img src="https://img.shields.io/badge/MySQL-0f0c29?style=flat-square&logo=mysql&logoColor=00f5ff"/>
+  <br/><br/>
+  <a href="https://github.com/Jose-Cordova/ReadBooks">
+    <img src="https://img.shields.io/badge/Ver_Repo→-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff"/>
+  </a>
 </td>
-
-<td align="center" width="33%">
-
-![ReadBooks Frontend](https://img.shields.io/badge/⚡_ReadBooks_UI-Frontend-0f0c29?style=for-the-badge&labelColor=0f0c29&color=00e676)
-
-**Interfaz moderna para la app de lectura**
-
-SPA fluida con Vue.js y diseño responsivo
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-0f0c29?style=flat-square&logo=vuedotjs&logoColor=00e676)
-![JavaScript](https://img.shields.io/badge/-JS-0f0c29?style=flat-square&logo=javascript&logoColor=f0ff00)
-![Tailwind](https://img.shields.io/badge/-Tailwind-0f0c29?style=flat-square&logo=tailwindcss&logoColor=00f5ff)
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Repo→-0f0c29?style=for-the-badge&logo=github&logoColor=00e676)](https://github.com/Jose-Cordova/ReadBooks_frontend)
-
-</td>
-
-<td align="center" width="33%">
-
-![Karolina](https://img.shields.io/badge/🌸_Karolina-Full_Stack-0f0c29?style=for-the-badge&labelColor=0f0c29&color=bf00ff)
-
-**Sistema POS para tienda de ropa**
-
-Inventario, ventas y reportes en tiempo real
-
-![Laravel](https://img.shields.io/badge/-Laravel-0f0c29?style=flat-square&logo=laravel&logoColor=ff4d6d)
-![Vue.js](https://img.shields.io/badge/-Vue.js-0f0c29?style=flat-square&logo=vuedotjs&logoColor=00e676)
-![MySQL](https://img.shields.io/badge/-MySQL-0f0c29?style=flat-square&logo=mysql&logoColor=00f5ff)
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Repo→-0f0c29?style=for-the-badge&logo=github&logoColor=bf00ff)](https://github.com/Jose-Cordova/Karolina-Collection)
-
-</td>
-
 </tr>
+
+<tr><td colspan="4"><img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=1&width=100%"/></td></tr>
+
+<tr>
+<td width="52" align="center"><b><font color="#00e676" size="6">02</font></b></td>
+<td width="1" bgcolor="#302b63"> </td>
+<td><b>ReadBooks — Frontend</b><br/><sub>SPA moderna con Vue.js, diseño responsivo e integración con la API</sub></td>
+<td align="right">
+  <img src="https://img.shields.io/badge/Vue.js-0f0c29?style=flat-square&logo=vuedotjs&logoColor=00e676"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f0c29?style=flat-square&logo=javascript&logoColor=f0ff00"/>
+  <img src="https://img.shields.io/badge/Tailwind-0f0c29?style=flat-square&logo=tailwindcss&logoColor=00f5ff"/>
+  <br/><br/>
+  <a href="https://github.com/Jose-Cordova/ReadBooks_frontend">
+    <img src="https://img.shields.io/badge/Ver_Repo→-0f0c29?style=for-the-badge&logo=github&logoColor=00e676"/>
+  </a>
+</td>
+</tr>
+
+<tr><td colspan="4"><img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=1&width=100%"/></td></tr>
+
+<tr>
+<td width="52" align="center"><b><font color="#bf00ff" size="6">03</font></b></td>
+<td width="1" bgcolor="#302b63"> </td>
+<td><b>Karolina Collection</b><br/><sub>Sistema POS completo — inventario, ventas y reportes para tienda de ropa</sub></td>
+<td align="right">
+  <img src="https://img.shields.io/badge/Laravel-0f0c29?style=flat-square&logo=laravel&logoColor=ff4d6d"/>
+  <img src="https://img.shields.io/badge/Vue.js-0f0c29?style=flat-square&logo=vuedotjs&logoColor=00e676"/>
+  <img src="https://img.shields.io/badge/MySQL-0f0c29?style=flat-square&logo=mysql&logoColor=00f5ff"/>
+  <br/><br/>
+  <a href="https://github.com/Jose-Cordova/Karolina-Collection">
+    <img src="https://img.shields.io/badge/Ver_Repo→-0f0c29?style=for-the-badge&logo=github&logoColor=bf00ff"/>
+  </a>
+</td>
+</tr>
+
 </table>
+
+</div>
 
 </div>
 
